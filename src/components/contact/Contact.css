@@ -1,0 +1,18 @@
+.Contact {
+    margin-top: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+}
+
+.Contact h4 {
+    text-align: center;
+}
+
+.Contact .Button {
+    text-align: left;
+}
+
+.Contact .CardHeader {
+    background-color: rgb(242, 222, 222);
+    color: rgb(189, 72, 76);
+}

@@ -1,0 +1,9 @@
+.Pagination a {
+    text-decoration: none;
+    color: black;
+    margin-top: 20px;
+}
+
+.Pagination .Siguiente {
+    margin-left: 77.4%;
+}
